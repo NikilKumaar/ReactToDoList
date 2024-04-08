@@ -1,10 +1,8 @@
-###
 
-<p align="left">My name is Prakash V S and I made a website ToDo App using React. It's from the Guvi-Zen class Roadmap, specifically React- Day -5: React Hooks. This project is my first time working with React Hooks!</p>
 
 ###
 
- <p align="1eft">Demo : https://my-todo-application01.netlify.app/</p> 
+ <p align="1eft">Demo : /</p> 
 
 ###
 
